@@ -1,12 +1,12 @@
 # 🌍 Global Unemployment Analysis (1991–2024)
 
-## 📌 Project Overview
+##  Project Overview
 
 Through data cleaning, aggregation, and statistical analysis, this project highlights countries with the highest and lowest unemployment rates, compares average unemployment levels across nations, and examines global unemployment trends over time.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze unemployment rates across multiple countries.
 * Identify countries with the highest and lowest unemployment rates.
